@@ -1,8 +1,0 @@
-ID:
-Severity:
-Priority:
-Summary:
-Steps:
-Actual result:
-Expected result:
-Attachment:
